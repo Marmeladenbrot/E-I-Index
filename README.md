@@ -1,10 +1,11 @@
 # E-I Index
-enables the calculation of the E-I Index based on Krackhardt & Stern (1988), https://doi.org/10.2307/2786835
+calculation of the global, cluster and single node E-I Index based on Krackhardt & Stern (1988), https://doi.org/10
+.2307/2786835
 
 ## Getting Started
 
-It is assumed that you have a dataframe with your nodes + node attributes. A specific column/node attribute needs to
- be given as a parameter to compare the node attributes.
+It is assumed that you have a dataframe with your nodes + node attributes.
+A specific column/node attribute needs to be given as a parameter to compare the node attributes.
  
 Sample code coming
 
