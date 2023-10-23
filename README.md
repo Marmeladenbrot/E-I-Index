@@ -1,5 +1,5 @@
 # E-I Index
-calculation of the global, cluster and single node E-I Index based on Krackhardt & Stern (1988), https://doi.org/10.2307/2786835
+Calculation of the global, cluster and single node E-I Index based on Krackhardt & Stern (1988), [https://doi.org/10.2307/2786835](https://doi.org/10.2307/2786835)
 
 ## Getting Started
 
